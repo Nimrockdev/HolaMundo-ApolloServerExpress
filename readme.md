@@ -19,6 +19,6 @@ typescript graphql-tools graphql-playground-middleware-express`
 
 `npm install graphql-tag-pluck`
 
-Inspect: [https://zeit.co/jsg8405/01-hola-mundo-apollo-server-express/e9zil4h](https://zeit.co/jsg8405/01-hola-mundo-apollo-server-express/e9zil4h) 
+Inspect: [https://zeit.co/jsg8405/01-hola-mundo-apollo-server-express](https://zeit.co/jsg8405/01-hola-mundo-apollo-server-express)
 
-Production: [https://01-hola-mundo-apollo-server-express.now.sh](https://zeit.co/jsg8405/01-hola-mundo-apollo-server-express/e9zil4h) 
+Production: [https://01-hola-mundo-apollo-server-express.now.sh/](https://01-hola-mundo-apollo-server-express.now.sh/)
