@@ -15,7 +15,8 @@ typescript graphql-tools graphql-playground-middleware-express`
 
 `npm install @types/compression @types/express @types/cors @types/express-graphql @types/node @types/graphql -D`
 
-##Dependencias para despliegue ZEIT
+##Dependencies for deployment ZEIT  
+
 `npm install graphql-tag-pluck`
 
 Inspect: [https://zeit.co/jsg8405/01-hola-mundo-apollo-server-express/e9zil4h](https://zeit.co/jsg8405/01-hola-mundo-apollo-server-express/e9zil4h) 
